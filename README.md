@@ -1,8 +1,8 @@
 # Modos Quasi-Normais de Estrelas de Nêutrons e Buracos Negros
 
-Este reposítório contém os notebooks criados para o projeto de mestrado da aluna Isabella Ramos de Souza Nunes (isabellarsn@id.uff.br - UFF) sob orientação da Profa. Dra. Raissa Fernandes Pessoa Mendes (rfpmendes@id.uff.br - UFF).
+Este reposítório contém os notebooks usados no estudo de oscilações de objetos compactos e extração das frequências dos modos quasi-normais emitidas na forma de ondas gravitacionais. Esse trabalho faz parte do projeto de mestrado da aluna Isabella Ramos de Souza Nunes (isabellarsn@id.uff.br - UFF) sob orientação da Profa. Dra. Raissa Fernandes Pessoa Mendes (rfpmendes@id.uff.br - UFF).
 
-Link para da [Dissertação](por link)
+Link para da [Dissertação](por o link)
 
 ## Notebooks - Wolfram Mathematica
 
@@ -26,7 +26,8 @@ Link para da [Dissertação](por link)
   *  **Constants:** Constantes utilizadas ao longo dos cálculos;
 
 ## Demais arquivos
-* **diff
+* **diffgeo.m:** Pacote do Wolfram Mathematica usado para cálculos da Relatividade Geral.
+* **Tabela EOS:** Conjunto de dados que fornecem diferentes equações de estado.
 
 
 
