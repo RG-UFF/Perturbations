@@ -13,7 +13,11 @@ Link para da [Dissertação](por link)
 
   ## Notebooks - Python
   
-  *  **Axial_perturbations:** Destinado ao estudo das equações axiais que descrevem perturbações em buracos negros e estrelas de nêutrons;
+  *  **BN_DomFreq:** Extração dos MQNs de um buraco negro pelo método de frações continuadas no domínio das frequências;
+  *  **BN_DomTemp:** Extração dos MQNS de um buraco negro pelo método de DFT e pelo método de fit no domínio temporal;
+  *  **EN_DomFreq:** Extração dos MQNs de uma estrela de nêutrons pelo método de frações continuadas no domínio das frequências;
+  *  **EN_DomTemp:** Extração dos MQNS de uma estrela de nêutrons pelo método de frações continuadas no domínio temporal;
+  *  **Cont_Frac**
 
 
 
