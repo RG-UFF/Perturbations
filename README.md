@@ -4,7 +4,7 @@ Este reposítório contém os notebooks criados para o projeto de mestrado da al
 
 Link para da [Dissertação](por link)
 
-## Notebooks - Mathematica
+## Notebooks - Wolfram Mathematica
 
 *  **Axial_perturbations:** Destinado ao estudo das equações axiais que descrevem perturbações em buracos negros e estrelas de nêutrons;
 *  **Polar_perturbations:** Destinado ao estudo das equações polares que descrevem perturbações em buracos negros e estrelas de nêutrons;
