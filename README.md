@@ -18,7 +18,7 @@ Link para da [Dissertação](por o link)
   *  **EN_DomFreq:** Extração dos MQNs de uma estrela de nêutrons pelo método de frações continuadas no domínio das frequências;
   *  **EN_DomTemp:** Extração dos MQNS de uma estrela de nêutrons pelo método de DFT e pelo método de fit no domínio temporal;
   *  **Cont_Frac:** Função responsável pela resolução da fração continuada para uma estrela de nêutrons;
-  *  **Perturb_timeD:** Definição das equações necessárias para executar a evolução temporal das equações de perturbação no domínio temporal;
+  *  **Eq_timeD:** Definição das equações necessárias para executar a evolução temporal das equações de perturbação no domínio temporal;
   *  **Eq_freqD:** Definição do lado direito das equações de perturbação e funções necessárias para a itegração no domínio das frequências;
   *  **EOS:** Notebook onde são criadas as equações de dados e parâmetros correspondentes responsáveis por caracterizar uma estrela;
   *  **Background:** Definição das equações de fundo, como por exemplo as equações de TOV;
