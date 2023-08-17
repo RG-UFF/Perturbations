@@ -21,12 +21,13 @@ Link para da [Dissertação](por o link)
   *  **Eq_timeD.py:** Definição das equações necessárias para executar a evolução temporal das equações de perturbação no domínio temporal;
   *  **Eq_freqD.py:** Definição do lado direito das equações de perturbação e funções necessárias para a itegração no domínio das frequências;
   *  **EOS.py:** Notebook onde são criadas as equações de estado e parâmetros correspondentes responsáveis por caracterizar uma estrela;
-  *  **Background.py:** Definição das equações de fundo, como por exemplo as equações de TOV;
+  *  **rhs_freqD2.py:** Integração das equações de movimento no domínio das frequências;
+  *  **background.py:** Definição das equações de fundo, como por exemplo as equações de TOV;
   *  **RK.py:** Definições do Runge-Kutta de terceira e quarta ordem;
-  *  **Constants.py:** Constantes utilizadas ao longo dos cálculos;
+  *  **bonstants.py:** Constantes utilizadas ao longo dos cálculos.
 
 ## Demais arquivos
-* **diffgeo.m:** Pacote do Wolfram Mathematica usado para cálculos da Relatividade Geral.
+* **diffgeo.m:** Pacote do Wolfram Mathematica usado para cálculos da Relatividade Geral;
 * **Tabela EOS:** Conjunto de dados que fornecem diferentes equações de estado.
 
 
