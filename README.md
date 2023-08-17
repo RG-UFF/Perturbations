@@ -24,7 +24,7 @@ Link para da [Dissertação](por o link)
   *  **rhs_freqD2.py:** Integração das equações de movimento no domínio das frequências;
   *  **background.py:** Definição das equações de fundo, como por exemplo as equações de TOV;
   *  **RK.py:** Definições do Runge-Kutta de terceira e quarta ordem;
-  *  **bonstants.py:** Constantes utilizadas ao longo dos cálculos.
+  *  **constants.py:** Constantes utilizadas ao longo dos cálculos.
 
 ## Demais arquivos
 * **diffgeo.m:** Pacote do Wolfram Mathematica usado para cálculos da Relatividade Geral;
