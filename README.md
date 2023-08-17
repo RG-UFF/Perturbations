@@ -20,7 +20,7 @@ Link para da [Dissertação](por o link)
   *  **Cont_Frac.ipynb:** Função responsável pela resolução da fração continuada para uma estrela de nêutrons;
   *  **Eq_timeD.py:** Definição das equações necessárias para executar a evolução temporal das equações de perturbação no domínio temporal;
   *  **Eq_freqD.py:** Definição do lado direito das equações de perturbação e funções necessárias para a itegração no domínio das frequências;
-  *  **EOS.py:** Notebook onde são criadas as equações de dados e parâmetros correspondentes responsáveis por caracterizar uma estrela;
+  *  **EOS.py:** Notebook onde são criadas as equações de estado e parâmetros correspondentes responsáveis por caracterizar uma estrela;
   *  **Background.py:** Definição das equações de fundo, como por exemplo as equações de TOV;
   *  **RK.py:** Definições do Runge-Kutta de terceira e quarta ordem;
   *  **Constants.py:** Constantes utilizadas ao longo dos cálculos;
